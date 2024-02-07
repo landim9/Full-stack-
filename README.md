@@ -1,11 +1,14 @@
-# Cantina da Dona Beth
+# Hamburgueria dos Guri
 
 
 * Projeto Full stack(MySQL, NodeJS, JS).
 
 # SOBRE O PROJETO:
 
-é os guri
+Esse projeto é inspirado em uma lanchonete, um meio de organizar pedidos e agilizar os atendimentos.
+
+* Informando Nome, selecionar produto da venda, quantidade, o valor já será atribuido quando selecionar o produto e o total será calculado automaticamente.
+* Carregando a página, vai aparecer as informações em uma tabela.
 
 # COMO TESTAR:
 
