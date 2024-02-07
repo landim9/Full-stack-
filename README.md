@@ -1,4 +1,4 @@
-# Hamburgueria dos Guri
+# Hamburgueria Guri's
 
 
 * Projeto Full stack(MySQL, NodeJS, JS).
